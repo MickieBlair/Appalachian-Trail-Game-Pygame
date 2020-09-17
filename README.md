@@ -26,7 +26,7 @@ Before leaving for the trail, the player must choose a trail name, starting gear
 ![Trailer Video](GameTrailer.gif)
 
 ## Game Introduction
-![Presentation of Game Concept](intro/Thru-Hike01.png)
+![Presentation of Game Concept](intro/Hike-01.png)
 
 
 
