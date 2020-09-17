@@ -2,6 +2,13 @@
 
 Pygame - The Appalachian Trail Game is an adventure-based game on the 2,193-mile-long footpath in the eastern United States extending between Springer Mountain in Georgia and Mount Katahdin in Maine.  A thru- hiker is a person who attempts to hike the entire trail in a single season carrying only a backpack and supplies.  A thru-hiker must make stops along the way in towns to replenish supplies and allow the body to recover. 
 
+## Execute Game
+Run the main.py file in the Source_code folder
+
+## Game Trailer
+![trailer](GameTrailer.mp4)
+
+
 ## Game Features
 During the game, the player will face obstacles such as:
 * Weather
