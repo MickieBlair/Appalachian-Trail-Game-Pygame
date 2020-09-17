@@ -18,3 +18,5 @@ During the game, the player will be able to control:
 The player must reach Mount Katahdin before October 15 when Mount Katahdin closes for the year.
 
 Before leaving for the trail, the player must choose a trail name, starting gear, starting date, available funds, food supplies and water amount.
+
+![images](logo.png)
