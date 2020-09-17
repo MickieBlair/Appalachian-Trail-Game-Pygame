@@ -23,7 +23,7 @@ The player must reach Mount Katahdin before October 15 when Mount Katahdin close
 Before leaving for the trail, the player must choose a trail name, starting gear, starting date, available funds, food supplies and water amount.
 
 ## Game Introduction
-![Game Introduction](Blair_M_Informational_Guide.pdf)
+![Game Introduction](Appalachian Trail – Thru Hike.pdf)
 
 ## Game Trailer
 ![Trailer Video](GameTrailer.mp4)
