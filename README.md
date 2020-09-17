@@ -26,7 +26,7 @@ Before leaving for the trail, the player must choose a trail name, starting gear
 ![Presentation of Game Concept](Appalachian_Trail-Thru_Hike.pdf)
 
 ## Game Trailer
-![Trailer Video](GameTrailer.mp4)
+![Trailer Video](GameTrailer.gif)
 
 ## Game Screenshots
 ![Start Screen](Source_Code/images/tutorial/game_start.jpg)
