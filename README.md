@@ -22,11 +22,13 @@ The player must reach Mount Katahdin before October 15 when Mount Katahdin close
 
 Before leaving for the trail, the player must choose a trail name, starting gear, starting date, available funds, food supplies and water amount.
 
-## Game Introduction
-![Presentation of Game Concept](Appalachian_Trail-Thru_Hike.pdf)
-
 ## Game Trailer
 ![Trailer Video](GameTrailer.gif)
+
+## Game Introduction
+![Presentation of Game Concept](intro/Thru-Hike01.png)
+
+
 
 ## Game Images
 All photos used in the game play taken by Mickie Blair
