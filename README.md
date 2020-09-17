@@ -45,3 +45,5 @@ Before leaving for the trail, the player must choose a trail name, starting gear
 All photos used in the game play - 
 Copyright © 2020, [Mickie Blair](https://mickieblair.com).
 
+## Current Commit 
+The current current only covers the first 250 miles.  More will be added as time allows.
