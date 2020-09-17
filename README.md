@@ -42,6 +42,6 @@ Before leaving for the trail, the player must choose a trail name, starting gear
 
 
 ## Game Images
-All photos used in the game play taken by Mickie Blair
-Copyright © 2020, [Mickie Blair](https://github.com/MickieBlair).
+All photos used in the game play - 
+Copyright © 2020, [Mickie Blair](https://mickieblair.com).
 
