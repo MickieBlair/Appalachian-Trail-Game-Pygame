@@ -20,3 +20,11 @@ The player must reach Mount Katahdin before October 15 when Mount Katahdin close
 Before leaving for the trail, the player must choose a trail name, starting gear, starting date, available funds, food supplies and water amount.
 
 ![Start Screen](Source_Code/images/tutorial/game_start.jpg)
+
+![Menu 1](Source_Code/images/tutorial/page1.png)
+
+![Menu 2](Source_Code/images/tutorial/page2.png)
+
+![Display 1](Source_Code/images/tutorial/display1.png)
+
+![Display 2](Source_Code/images/tutorial/display2.png)
