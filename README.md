@@ -46,4 +46,4 @@ All photos used in the game play -
 Copyright © 2020, [Mickie Blair](https://mickieblair.com).
 
 ## Current Commit 
-The current current only covers the first 250 miles.  More will be added as time allows.
+The current commit only covers the first 250 miles.  More will be added as time allows.
