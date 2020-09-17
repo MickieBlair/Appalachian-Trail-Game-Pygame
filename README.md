@@ -27,6 +27,17 @@ Before leaving for the trail, the player must choose a trail name, starting gear
 
 ## Game Introduction
 ![Presentation of Game Concept](intro/Hike-01.png)
+![Presentation of Game Concept](intro/Hike-02.png)
+![Presentation of Game Concept](intro/Hike-03.png)
+![Presentation of Game Concept](intro/Hike-04.png)
+![Presentation of Game Concept](intro/Hike-05.png)
+![Presentation of Game Concept](intro/Hike-06.png)
+![Presentation of Game Concept](intro/Hike-07.png)
+![Presentation of Game Concept](intro/Hike-08.png)
+![Presentation of Game Concept](intro/Hike-09.png)
+![Presentation of Game Concept](intro/Hike-10.png)
+![Presentation of Game Concept](intro/Hike-11.png)
+![Presentation of Game Concept](intro/Hike-12.png)
 
 
 
