@@ -1,0 +1,27 @@
+{
+  "1": {
+    "description": "Nature helping nature provide!",
+    "image": "images/water/water.jpg",
+    "season": "all"
+  },
+  "2": {
+    "description": "Crystal clear water.",
+    "image": "images/water/water_2.jpg",
+    "season": "all"
+  },
+  "3": {
+    "description": "A footbridge over a small stream.",
+    "image": "images/water/creek27.jpg",
+    "season": "all"
+  },
+  "4": {
+    "description": "Rock hop through a small stream.",
+    "image": "images/water/mile149.jpg",
+    "season": "all"
+  },
+  "5": {
+    "description": "A beautiful water source.",
+    "image": "images/water/water_winding.jpg",
+    "season": "all"
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "1": {
+    "image": "images/trail/icsicles.jpg",
+    "description": "It seems to be bit chilly today.",
+    "season": "winter, spring, fall"
+  },
+  "2": {
+    "image": "images/trail/foggy.jpg",
+    "description": "The fog has taken over.",
+    "season": "winter, spring, summer, fall"
+  },
+  "3": {
+    "image": "images/trail/climb.jpg",
+    "description": "Another mountain to climb!",
+    "season": "winter, spring, summer, fall"
+  },
+  "4": {
+    "image": "images/trail/more_fog.jpg",
+    "description": "Walking in a cloud.",
+    "season": "winter, spring, summer, fall"
+  },
+  "5": {
+    "image": "images/trail/blue_sky.jpg",
+    "description": "A beautiful day.",
+    "season": "winter, spring"
+  },
+  "6": {
+    "image": "images/trail/cold_ice.jpg",
+    "description": "It a little cold today.",
+    "season": "winter, spring, fall"
+  },
+  "7": {
+    "image": "images/trail/another_beautiful.jpg",
+    "description": "Definitely a gorgeous day.",
+    "season": "winter, spring, summer, fall"
+  },
+  "8": {
+    "image": "images/trail/fog_3.jpg",
+    "description": "Will I ever see the sun again?",
+    "season": "winter, spring, summer, fall"
+  },
+  "9": {
+    "image": "images/trail/at_least.jpg",
+    "description": "At least, the moss is green.",
+    "season": "winter, spring, fall"
+  },
+  "10": {
+    "image": "images/trail/rhod.jpg",
+    "description": "A green rhododendron tunnel",
+    "season": "winter, spring, summer, fall"
+  },
+  "11": {
+    "image": "images/trail/trail_2.jpg",
+    "description": "Just keep walking!",
+    "season": "winter, spring, summer, fall"
+  },
+  "12": {
+    "image": "images/trail/little_tree.jpg",
+    "description": "A tiny tree with a white blaze",
+    "season": "spring, summer, fall"
+  },
+  "13": {
+    "image": "images/trail/spring_flowers.jpg",
+    "description": "Tiny flowers are starting to bloom.",
+    "season": "spring"
+  }
+}

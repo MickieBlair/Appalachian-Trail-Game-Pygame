@@ -1,0 +1,52 @@
+{
+  "1": {
+    "description": "You find a dandelion!",
+    "image": "images/random/dandelion.jpg",
+    "season": "spring, summer"
+  },
+  "2": {
+    "description": "You stop to look at a beautiful fern!",
+    "image": "images/random/fern.jpg",
+    "season": "spring, summer, fall"
+  },
+  "3": {
+    "description": "You find a fuzzy weird plant!",
+    "image": "images/random/fuzzy.jpg",
+    "season": "spring, summer, fall"
+  },
+  "4": {
+    "description": "You stop to look at a pink flower!",
+    "image": "images/random/pink_flower.jpg",
+    "season": "spring, summer"
+  },
+  "5": {
+    "description": "Wow, a funny little puffball!",
+    "image": "images/random/puff_star.jpg",
+    "season": "winter, spring, summer, fall"
+  },
+  "6": {
+    "description": "You stop to admire a snail!",
+    "image": "images/random/snail.jpg",
+    "season": "winter, spring, summer, fall"
+  },
+  "7": {
+    "description": "A squirrel catches your attention!",
+    "image": "images/random/squirrel.jpg",
+    "season": "spring, summer, fall"
+  },
+  "8": {
+    "description": "You find art!!",
+    "image": "images/random/stick_art.jpg",
+    "season": "winter, spring, summer, fall"
+  },
+  "9": {
+    "description": "A tiny mushroom !!",
+    "image": "images/random/tiny_mushroom.jpg",
+    "season": "winter, spring, summer, fall"
+  },
+  "10": {
+    "description": "The tiny drops are fascinating!",
+    "image": "images/random/water_moss.jpg",
+    "season": "spring, summer, fall"
+  }
+}
